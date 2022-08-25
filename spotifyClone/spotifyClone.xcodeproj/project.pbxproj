@@ -14,6 +14,7 @@
 		A42D958F28B5C69D001C3098 /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42D958E28B5C69D001C3098 /* HomePage.swift */; };
 		A42D959128B5C834001C3098 /* SearchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42D959028B5C834001C3098 /* SearchPage.swift */; };
 		A42D959328B5CA6A001C3098 /* ContentItemViewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42D959228B5CA6A001C3098 /* ContentItemViewer.swift */; };
+		A42D959828B6B4CA001C3098 /* lImage_text_rImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A42D959728B6B4CA001C3098 /* lImage_text_rImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		A42D958E28B5C69D001C3098 /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
 		A42D959028B5C834001C3098 /* SearchPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchPage.swift; sourceTree = "<group>"; };
 		A42D959228B5CA6A001C3098 /* ContentItemViewer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentItemViewer.swift; sourceTree = "<group>"; };
+		A42D959728B6B4CA001C3098 /* lImage_text_rImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lImage_text_rImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				A42D958E28B5C69D001C3098 /* HomePage.swift */,
 				A42D959028B5C834001C3098 /* SearchPage.swift */,
 				A42D959228B5CA6A001C3098 /* ContentItemViewer.swift */,
+				A42D959728B6B4CA001C3098 /* lImage_text_rImage.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				A42D958F28B5C69D001C3098 /* HomePage.swift in Sources */,
 				A42D959328B5CA6A001C3098 /* ContentItemViewer.swift in Sources */,
 				A42D959128B5C834001C3098 /* SearchPage.swift in Sources */,
+				A42D959828B6B4CA001C3098 /* lImage_text_rImage.swift in Sources */,
 				A42D958128B5C022001C3098 /* spotifyCloneApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
